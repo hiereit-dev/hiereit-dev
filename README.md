@@ -15,14 +15,17 @@
 
 <!--디자인 툴 관련-->
 <h4>  🎨design Tool :</h4>
+<p>
+  <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" style="max-width: 100%;"></code>
+</p>
 <!-- <p>
   <img src="https://img.shields.io/badge/Photoshop-2FA3F7?style=flat&logo=Adobe Photoshop&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Illustrator-f79500?style=flat&logo=Adobe Illustrator&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Adobe XD-F725B8?style=flat&logo=Adobe XD&logoColor=white"/>&nbsp;
   </p> -->
-  <p>
+<!--   <p>
     <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/1200px-Adobe_Illustrator_CC_icon.svg.png" style="max-width: 100%;"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" style="max-width: 100%;"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/2101px-Adobe_XD_CC_icon.svg.png" style="max-width: 100%;"></code>
-  </p>
+  </p> -->
   
   
 <!--배우고 있는...-->
