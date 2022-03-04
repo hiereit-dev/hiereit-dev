@@ -29,9 +29,9 @@
 <!--배우고 있는...-->
 <h3> 🌱 I’m currently learning ... 🌱</h3>
 <p>  
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/flask-000000?style=flat&logo=flask&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=Amazon AWS&logoColor=white"/>&nbsp;<br> 
-<!--  Dynamodb랑 AWS , MongoDB 주석처리-->
-<!--   <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=Amazon DynamoDB&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"/><br> -->
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/flask-000000?style=flat&logo=flask&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=Amazon AWS&logoColor=white"/>&nbsp;<br> 
+<!--  Dynamodb랑 AWS , MongoDB, npm주석처리-->
+<!--   <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=Amazon DynamoDB&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white"/>&nbsp;<br> -->
 </p>
 
 <!--푸터작성-->
