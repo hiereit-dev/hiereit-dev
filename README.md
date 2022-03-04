@@ -29,7 +29,7 @@
 <!--배우고 있는...-->
 <h3> 🌱 I’m currently learning ... 🌱</h3>
 <p>  
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/flask-000000?style=flat&logo=flask&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=Amazon AWS&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white"/><br>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/flask-000000?style=flat&logo=flask&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=Amazon AWS&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white"/> <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Firebase&logoColor=white"/><br> 
   <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=Amazon DynamoDB&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"/><br>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=Apache Spark&logoColor=white"/>&nbsp;
 </p>
