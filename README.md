@@ -14,10 +14,8 @@
 </p>
 
 <!--디자인 툴 관련-->
-<h4>  🎨design Tool :</h4>
-<p>
-  <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" style="max-width: 100%;"></code>
-</p>
+<h4>  🎨design Tool : <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" style="max-width: 100%;"></code></h4>
+
 <!-- <p>
   <img src="https://img.shields.io/badge/Photoshop-2FA3F7?style=flat&logo=Adobe Photoshop&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Illustrator-f79500?style=flat&logo=Adobe Illustrator&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Adobe XD-F725B8?style=flat&logo=Adobe XD&logoColor=white"/>&nbsp;
   </p> -->
