@@ -3,7 +3,7 @@
   <a href="https://velog.io/@zerra18/posts/" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-23c184?style=flat-square&logo=velog&logoColor=white"/></a>
   <a href="mailto:sera12pak@gmail.com" target="_blank"><img src="https://img.shields.io/badge/sera12pak@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
-
+<!--
 <p>
   👋&nbsp; Hi there! I'm  <b>iOS developer</b> skilled in APP and WEB. 🚀<br/>
   I have experience 2 years of iOS development.<br/>
@@ -11,7 +11,7 @@
   I enjoy hiking, running and watching the shows. ⛰ 🏃‍♀️ 📺<br/>
   I hope to develop the service so that will help many people✌️ <br/><br/>
 </p>
-
+-->
 
 ### 💪 Skills
 #### Platforms & Languages & Tools
